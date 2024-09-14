@@ -4,7 +4,7 @@ title: My Music
 colors: colors-a
 date: '2024-09-14'
 client: for u !
-description: 'My voice is best understood in the language I most understand. '
+description: My voice is best understood in the language I most understand. More to come.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
