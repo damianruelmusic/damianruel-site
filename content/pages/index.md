@@ -127,6 +127,17 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-0
+          - pb-0
+        justifyContent: center
+        borderWidth: 1
   - type: TextSection
     colors: colors-f
     variant: variant-a
@@ -152,17 +163,6 @@ sections:
       text:
         textAlign: left
     subtitle: why a website?
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-0
-          - pb-0
-        justifyContent: center
-        borderWidth: 1
   - type: DividerSection
     title: Divider
     elementId: ''
