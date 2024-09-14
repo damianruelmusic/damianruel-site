@@ -206,7 +206,7 @@ sections:
         - name: hi
           label: fav greeting?
           hideLabel: true
-          placeholder: Address
+          placeholder: fav greeting?
           isRequired: true
           width: 1/2
           type: TextFormControl
