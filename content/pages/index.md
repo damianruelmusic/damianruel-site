@@ -49,9 +49,9 @@ sections:
     actions: []
   - type: CtaSection
     title: Listen to me on Spotify!
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      hyperlink to Spotify, but you can find my music under "damianruel" on any
+      music service u can imagine
     actions:
       - type: Button
         label: Try it now
