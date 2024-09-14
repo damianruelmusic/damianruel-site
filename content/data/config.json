@@ -76,7 +76,7 @@
             "address": "",
             "addressAltText": "\\"
         },
-        "copyrightText": "Coded by yours truly ;)    (i even got my own repository)\n\n\n\nHosted by [Netlify](https://www.netlify.com/platform/) (thx luvs <33333)\n",
+        "copyrightText": "<div style=\"text-align: right\">Coded by yours truly ;)    (i even got my own repositoryHosted by [Netlify](https://www.netlify.com/platform/) (thx luvs <33333)</div>\n\n",
         "styles": {
             "self": {
                 "width": "narrow",
