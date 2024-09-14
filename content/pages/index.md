@@ -137,6 +137,7 @@ sections:
           - pt-0
           - pb-5
           - pl-6
+          - pr-6
         justifyContent: center
         borderWidth: 1
   - type: TextSection
