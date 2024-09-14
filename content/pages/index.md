@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a musician, writer, artist and a bunch of other impressive titles and
+      I’m a musician, writer, artist and a bunch of other creative titles and
       buzz words.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
