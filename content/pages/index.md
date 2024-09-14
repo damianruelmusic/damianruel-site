@@ -17,9 +17,9 @@ sections:
       I’m a musician, writer, artist and a bunch of other creative titles and
       buzz words.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I would love to share my thoughts and art and voice with the world. Thank
+      you for reading even this much into it, you can continue to scroll down to
+      see more details and credentials about my creations.
     styles:
       self:
         height: auto
