@@ -163,17 +163,6 @@ sections:
       text:
         textAlign: left
     subtitle: why a website?
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-0
-          - pb-0
-        justifyContent: center
-        borderWidth: 1
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
