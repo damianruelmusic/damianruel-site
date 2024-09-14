@@ -157,6 +157,32 @@ sections:
         justifyContent: flex-end
     subtitle: i have lots of thoughts i'd like to share
     title: My mind
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: ''
+    text: >+
+      I would love to share my thoughts and art and voice with the world. Thank
+      you for reading even this much into it, you can continue to scroll down to
+      see more details and credentials about my creations.
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -220,32 +246,6 @@ sections:
         justifyContent: center
         flexDirection: row
       title:
-        textAlign: left
-      text:
-        textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
-    text: >+
-      I would love to share my thoughts and art and voice with the world. Thank
-      you for reading even this much into it, you can continue to scroll down to
-      see more details and credentials about my creations.
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
         textAlign: left
       text:
         textAlign: left
