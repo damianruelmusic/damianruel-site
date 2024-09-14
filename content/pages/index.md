@@ -64,7 +64,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Apple Music
         altText: ''
         url: 'https://music.apple.com/us/album/revision-iv/1757031953?i=1757031954'
         showIcon: false
