@@ -83,7 +83,7 @@ sections:
           - pt-28
           - pb-28
           - pl-4
-          - pr-2
+          - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: col
