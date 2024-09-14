@@ -285,5 +285,5 @@ sections:
         textAlign: left
 socialImage: /images/IMG_0074 - Copy.jpeg
 metaTitle: hope page ;p
-metaDescription: read more about damianruel
+metaDescription: read more about damianruel !!
 ---
