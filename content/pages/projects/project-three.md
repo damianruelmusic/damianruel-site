@@ -7,7 +7,7 @@ client: oh word?
 description: Many ideas to come.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/IMG_2726.JPG
   altText: Project thumbnail image
 media:
   type: ImageBlock
