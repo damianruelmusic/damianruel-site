@@ -284,4 +284,5 @@ sections:
       text:
         textAlign: left
 socialImage: /images/IMG_0074 - Copy.jpeg
+metaTitle: damianruel's projects
 ---
