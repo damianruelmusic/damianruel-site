@@ -7,7 +7,7 @@ client: for u !
 description: My voice is best understood in the language I most understand. More to come.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/IMG_5264.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
