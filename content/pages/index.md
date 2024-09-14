@@ -130,7 +130,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: i have lots of thoughts i'd like to share
     title: My mind
   - type: FeaturedPostsSection
     elementId: ''
