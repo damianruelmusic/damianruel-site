@@ -48,7 +48,7 @@ sections:
     type: HeroSection
     actions: []
   - type: CtaSection
-    title: Listen to me on Spotify!
+    title: Listen to my music!
     text: >
       hyperlink to Spotify, but you can find my music under "damianruel" on any
       music service u can imagine
