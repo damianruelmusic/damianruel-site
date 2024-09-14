@@ -69,7 +69,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "(312) 964-2799",
+            "phoneNumber": "(312)964-2799",
             "phoneAltText": "My phone number",
             "email": "damianruelmusic@gmail.com",
             "emailAltText": "My email",
