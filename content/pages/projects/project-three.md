@@ -3,7 +3,7 @@ type: ProjectLayout
 title: my writing
 colors: colors-a
 date: '2024-09-14'
-client: Awesome client
+client: oh word?
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
