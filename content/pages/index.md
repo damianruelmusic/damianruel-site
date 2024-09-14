@@ -81,31 +81,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
-    text: >
-      tbh i just wanted to see if i could do it. plus its a good hub to find all
-      my projects
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-9
-          - pb-6
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    subtitle: why a website?
   - type: CtaSection
     title: Listen to my music!
     text: >
@@ -152,6 +127,31 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: ''
+    text: >
+      tbh i just wanted to see if i could do it. plus its a good hub to find all
+      my projects
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-9
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+    subtitle: why a website?
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
