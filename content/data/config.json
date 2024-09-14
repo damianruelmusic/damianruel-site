@@ -60,12 +60,6 @@
                 "label": "Contact",
                 "url": "mailto:damianruelmusic@gmail.com",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
