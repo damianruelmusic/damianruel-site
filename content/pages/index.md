@@ -54,7 +54,7 @@ sections:
       music service u can imagine
     actions:
       - type: Button
-        label: Try it now
+        label: Spotify
         altText: pls
         url: >-
           /https://open.spotify.com/track/0Lt7n7FZxKOgweu916V8gF?si=dbf3d58889e54f11
