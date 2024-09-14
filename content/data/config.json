@@ -39,6 +39,14 @@
                 "label": "Twitter",
                 "url": "https://twitter.com/netlify",
                 "icon": "twitter"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.youtube.com/@damianruelmusic",
+                "icon": "youtube",
+                "elementId": ""
             }
         ],
         "styles": {
