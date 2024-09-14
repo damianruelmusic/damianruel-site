@@ -284,6 +284,6 @@ sections:
       text:
         textAlign: left
 socialImage: /images/IMG_0074 - Copy.jpeg
-metaTitle: hope page ;p
+metaTitle: home page ;p
 metaDescription: read more about damianruel !!
 ---
