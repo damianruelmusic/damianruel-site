@@ -127,6 +127,57 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-0
+          - pb-5
+          - pl-6
+          - pr-6
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: ''
+    text: >
+      tbh i just wanted to see if i could do it. plus its a good hub to find all
+      my projects
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-4
+          - pb-1
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+    subtitle: why a website?
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-5
+          - pb-0
+          - pr-6
+          - pl-6
+        justifyContent: center
+        borderWidth: 1
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -153,7 +204,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-6
+          - pt-24
           - pb-24
           - pl-4
           - pr-4
@@ -232,4 +283,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/IMG_0074 - Copy.jpeg
+metaTitle: damianruel's projects
+metaDescription: read more about damianruel
 ---
