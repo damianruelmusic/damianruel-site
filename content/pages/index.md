@@ -59,7 +59,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: ''
+    title: why a website?
     text: >
       my goal is to share my thoughts and art and voice with the world. tysmsm
       for reading even this much into it, you can continue to scroll down to see
