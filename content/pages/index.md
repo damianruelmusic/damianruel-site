@@ -45,19 +45,6 @@ sections:
     type: HeroSection
     actions: []
     text: ''
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-1
-          - pb-1
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: TextSection
     colors: colors-f
     variant: variant-a
@@ -84,6 +71,19 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-1
+          - pb-1
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: CtaSection
     title: Listen to my music!
     text: >
