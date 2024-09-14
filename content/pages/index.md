@@ -72,6 +72,32 @@ sections:
         textAlign: center
       text:
         textAlign: center
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: ''
+    text: >+
+      I would love to share my thoughts and art and voice with the world. Thank
+      you for reading even this much into it, you can continue to scroll down to
+      see more details and credentials about my creations.
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: CtaSection
     title: Listen to my music!
     text: >
@@ -118,32 +144,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
-    text: >+
-      I would love to share my thoughts and art and voice with the world. Thank
-      you for reading even this much into it, you can continue to scroll down to
-      see more details and credentials about my creations.
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
