@@ -48,19 +48,6 @@ sections:
       I would love to share my thoughts and art and voice with the world. Thank
       you for reading even this much into it, you can continue to scroll down to
       see more details and credentials about my creations.
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: CtaSection
     title: Listen to my music!
     text: >
