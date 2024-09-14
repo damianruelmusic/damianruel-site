@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: My Music
 colors: colors-a
-date: '2023-09-01'
+date: '2024-09-14'
 client: Awesome client
 description: 'My voice is best understood in the language I most understand. '
 featuredImage:
