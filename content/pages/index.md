@@ -173,6 +173,7 @@ sections:
           - pt-5
           - pb-0
           - pr-6
+          - pl-6
         justifyContent: center
         borderWidth: 1
   - colors: colors-f
