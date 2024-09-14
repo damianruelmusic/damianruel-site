@@ -136,6 +136,7 @@ sections:
         padding:
           - pt-0
           - pb-5
+          - pl-6
         justifyContent: center
         borderWidth: 1
   - type: TextSection
