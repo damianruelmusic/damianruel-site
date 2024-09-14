@@ -131,6 +131,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+    title: My mind
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
