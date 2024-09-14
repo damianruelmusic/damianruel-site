@@ -283,4 +283,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/IMG_0074 - Copy.jpeg
 ---
