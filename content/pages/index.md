@@ -48,16 +48,6 @@ sections:
       I would love to share my thoughts and art and voice with the world. Thank
       you for reading even this much into it, you can continue to scroll down to
       see more details and credentials about my creations.
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://youtu.be/BD-YliszGkA'
-      elementId: ''
-      autoplay: false
-      loop: false
-      muted: false
-      controls: true
-      aspectRatio: '16:9'
   - type: CtaSection
     title: Listen to my music!
     text: >
