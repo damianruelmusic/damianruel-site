@@ -13,13 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a musician, writer, artist and a bunch of other creative titles and
-      buzz words.
+    title: damianruel's page
     subtitle: >-
-      I would love to share my thoughts and art and voice with the world. Thank
-      you for reading even this much into it, you can continue to scroll down to
-      see more details and credentials about my creations.
+      a musician, writer, artist and a bunch of other creative titles and buzz
+      words.
     styles:
       self:
         height: auto
@@ -30,8 +27,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-48
+          - pt-16
+          - pb-4
           - pl-4
           - pr-4
         alignItems: center
@@ -47,6 +44,43 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: ''
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-12
+          - pb-6
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: ''
+    text: >
+      my goal is to share my thoughts and art and voice with the world. tysmsm
+      for reading even this much into it, you can continue to scroll down to see
+      more details and credentials about my creations !!!!!!!!
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-0
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: CtaSection
     title: Listen to my music!
     text: >
@@ -80,8 +114,8 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-28
-          - pb-28
+          - pt-24
+          - pb-24
           - pl-4
           - pr-4
         alignItems: center
@@ -119,7 +153,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
+          - pt-6
           - pb-24
           - pl-4
           - pr-4
