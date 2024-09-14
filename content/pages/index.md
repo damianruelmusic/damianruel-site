@@ -10,52 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - type: CtaSection
-    title: Listen to my music!
-    text: >
-      hyperlink to Spotify, but you can find my music under "damianruel" on any
-      music service u can imagine
-    actions:
-      - type: Button
-        label: Spotify
-        altText: pls
-        url: >-
-          https://open.spotify.com/track/0Lt7n7FZxKOgweu916V8gF?si=dbf3d58889e54f11
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
-        label: Apple Music
-        altText: ''
-        url: 'https://music.apple.com/us/album/revision-iv/1757031953?i=1757031954'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - elementId: ''
     colors: colors-f
     backgroundSize: full
@@ -104,6 +58,52 @@ sections:
       muted: false
       controls: true
       aspectRatio: '16:9'
+  - type: CtaSection
+    title: Listen to my music!
+    text: >
+      hyperlink to Spotify, but you can find my music under "damianruel" on any
+      music service u can imagine
+    actions:
+      - type: Button
+        label: Spotify
+        altText: pls
+        url: >-
+          https://open.spotify.com/track/0Lt7n7FZxKOgweu916V8gF?si=dbf3d58889e54f11
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Apple Music
+        altText: ''
+        url: 'https://music.apple.com/us/album/revision-iv/1757031953?i=1757031954'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
