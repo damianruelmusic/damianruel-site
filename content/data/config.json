@@ -76,7 +76,7 @@
             "address": "",
             "addressAltText": "\\"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "<div style=\"text-align: right\">website by yours truly ;)</div><br><div style=\"text-align: right\">(i even have a repository!!)\n\n",
         "styles": {
             "self": {
                 "width": "narrow",
