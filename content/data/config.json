@@ -38,6 +38,14 @@
                 "label": "Instagram",
                 "url": "https://www.instagram.com/damianruelmusic/",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.instagram.com/damianruelmusic/",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
