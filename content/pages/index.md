@@ -49,7 +49,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: The Section Title
-    subtitle: The section subtitle
+    subtitle: ''
     text: >+
       I would love to share my thoughts and art and voice with the world. Thank
       you for reading even this much into it, you can continue to scroll down to
