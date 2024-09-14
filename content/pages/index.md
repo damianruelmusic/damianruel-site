@@ -69,7 +69,7 @@ sections:
         url: 'https://music.apple.com/us/album/revision-iv/1757031953?i=1757031954'
         showIcon: false
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
     colors: colors-f
