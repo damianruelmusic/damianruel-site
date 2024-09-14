@@ -138,17 +138,6 @@ sections:
           - pb-5
         justifyContent: center
         borderWidth: 1
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-0
-          - pb-0
-        justifyContent: center
-        borderWidth: 1
   - type: TextSection
     colors: colors-f
     variant: variant-a
