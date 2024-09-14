@@ -48,7 +48,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: ''
     subtitle: ''
     text: >+
       I would love to share my thoughts and art and voice with the world. Thank
