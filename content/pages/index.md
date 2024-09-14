@@ -66,7 +66,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: '/https://music.apple.com/us/album/revision-iv/1757031953?i=1757031954'
+        url: 'https://music.apple.com/us/album/revision-iv/1757031953?i=1757031954'
         showIcon: false
         icon: arrowRight
         iconPosition: right
