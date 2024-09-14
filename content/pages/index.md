@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     title: damianruel's page
     subtitle: >-
-      I’m a musician, writer, artist and a bunch of other creative titles and
-      buzz words.
+      a musician, writer, artist and a bunch of other creative titles and buzz
+      words.
     styles:
       self:
         height: auto
