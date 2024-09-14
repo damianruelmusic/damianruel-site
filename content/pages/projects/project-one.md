@@ -4,10 +4,7 @@ title: Visual arts
 colors: colors-a
 date: '2024-09-14'
 client: ur pretty
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: Many arts to cum.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
