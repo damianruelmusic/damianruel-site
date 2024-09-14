@@ -45,6 +45,9 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      I’m a musician, writer, artist and a bunch of other creative titles and
+      buzz words.
   - type: CtaSection
     title: Listen to my music!
     text: >
