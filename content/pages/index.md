@@ -59,7 +59,7 @@ sections:
           - pb-36
           - pl-4
           - pr-4
-        justifyContent: center
+        justifyContent: flex-end
         borderWidth: 1
   - type: CtaSection
     title: Listen to my music!
