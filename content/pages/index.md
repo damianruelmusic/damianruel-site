@@ -204,7 +204,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: hi
-          label: Address
+          label: fav greeting?
           hideLabel: true
           placeholder: Address
           isRequired: true
