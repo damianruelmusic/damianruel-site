@@ -13,11 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      ## im a musician!! like that wasn't already obvious enough lolol... i have
+      a lot on my mind right now, so there will be more to come! for now, enjoy
+      the WIP of the site... my team and i (just me) are working diligently
+      toward its full release. for now, check out my social medias
+      [@damianruelmusic](https://linktr.ee/damianruel).
     media:
       type: ImageBlock
       url: /images/IMG_6333.jpg
