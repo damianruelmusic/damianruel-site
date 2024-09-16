@@ -68,10 +68,6 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/Apple_Music_icon.svg.png
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
         url: /images/logo4.svg
         altText: Logo four
         caption: Logo four
