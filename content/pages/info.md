@@ -68,7 +68,8 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: >-
+          /images/png-clipart-computer-icons-apple-music-apple-text-rectangle-thumbnail.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
