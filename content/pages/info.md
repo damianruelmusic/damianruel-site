@@ -72,10 +72,6 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/Youtube_logo.png
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
         url: /images/logo4.svg
         altText: Logo four
         caption: Logo four
