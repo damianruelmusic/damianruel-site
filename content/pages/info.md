@@ -68,7 +68,7 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/distrokid-sticker.png
         altText: Logo four
         caption: Logo four
     spacing: 3
