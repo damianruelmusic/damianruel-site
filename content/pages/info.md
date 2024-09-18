@@ -257,26 +257,31 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   UIUC Music Ed Student
 
-          **2018-2021**
+          **2020-2024**
 
-          * fullstack at this startup
+          *   Wind Ensemble 1st Trumpet (section leader 2022-2024)
 
-          **2015**
+          **2022-2024**
 
-          * senior front-end at this place
+          *   Chamber choir
+
+          **2018-2020**
+
+          *   Primary school band class
 
           **2013**
 
-          * intern developer at a big company
+          *   intern developer at a big company
 
           **2011**
 
-          * flipping burgers
+          *   flipping burgers
+
         styles:
           self:
             textAlign: left
