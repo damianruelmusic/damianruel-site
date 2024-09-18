@@ -206,11 +206,11 @@ sections:
         label: Writing
         url: ''
       - type: Label
+        label: Composing
+      - type: Label
         label: Guitar
       - type: Label
         label: Brass Inst.
-      - type: Label
-        label: Composing
       - type: Label
         label: Piano
       - type: Label
