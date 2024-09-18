@@ -204,7 +204,7 @@ sections:
       - type: Label
         label: Perfect pitch
       - type: Label
-        label: Next.js
+        label: Guitar
       - type: Label
         label: Netlify
       - type: Label
