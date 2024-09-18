@@ -206,7 +206,7 @@ sections:
       - type: Label
         label: Guitar
       - type: Label
-        label: Netlify
+        label: Brass
       - type: Label
         label: Pancakes
       - type: Label
