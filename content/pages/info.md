@@ -200,13 +200,13 @@ sections:
       - type: Label
         label: Singing
       - type: Label
-        label: Acting
-        url: ''
-      - type: Label
         label: Writing
         url: ''
       - type: Label
         label: Composing
+      - type: Label
+        label: Acting
+        url: ''
       - type: Label
         label: Guitar
       - type: Label
