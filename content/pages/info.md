@@ -200,9 +200,9 @@ sections:
       - type: Label
         label: Music Theory
       - type: Label
-        label: Singing
-      - type: Label
         label: Perfect pitch
+      - type: Label
+        label: Singing
       - type: Label
         label: Guitar
       - type: Label
