@@ -206,7 +206,7 @@ sections:
       - type: Label
         label: Guitar
       - type: Label
-        label: Brass
+        label: Brass Inst.
       - type: Label
         label: Pancakes
       - type: Label
