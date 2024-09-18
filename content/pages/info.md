@@ -212,13 +212,13 @@ sections:
       - type: Label
         label: Strings
       - type: Label
-        label: Perfect pitch
-      - type: Label
         label: 'Many, many other instruments'
         url: ''
       - type: Label
         label: Acting
         url: ''
+      - type: Label
+        label: Perfect pitch
       - type: Label
         label: Writing
         url: ''
