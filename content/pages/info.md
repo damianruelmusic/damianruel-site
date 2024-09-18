@@ -139,7 +139,7 @@ sections:
         actions:
           - type: Link
             label: YouTube
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.youtube.com/@damianruelmusic'
         styles:
           self:
             textAlign: left
