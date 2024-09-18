@@ -200,7 +200,7 @@ sections:
       - type: Label
         label: Musicianship
       - type: Label
-        label: Multi-instrumentalist
+        label: Music Theory
       - type: Label
         label: Perfect pitch
       - type: Label
