@@ -146,7 +146,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
+            label: Twitter
             url: 'https://codepen.io/'
         styles:
           self:
