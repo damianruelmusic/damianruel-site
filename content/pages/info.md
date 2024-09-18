@@ -213,6 +213,9 @@ sections:
         label: Drums
       - type: Label
         label: Strings
+      - type: Label
+        label: 'Many, many other instruments'
+        url: ''
   - type: DividerSection
     styles:
       self:
