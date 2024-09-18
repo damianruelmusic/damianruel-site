@@ -202,7 +202,7 @@ sections:
       - type: Label
         label: Multi-instrumentalist
       - type: Label
-        label: Microsoft Office
+        label: Perfect pitch
       - type: Label
         label: Next.js
       - type: Label
