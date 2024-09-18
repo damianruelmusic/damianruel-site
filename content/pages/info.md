@@ -219,6 +219,9 @@ sections:
       - type: Label
         label: Acting
         url: ''
+      - type: Label
+        label: Writing
+        url: ''
   - type: DividerSection
     styles:
       self:
