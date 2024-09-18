@@ -198,6 +198,8 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
+        label: Singing
+      - type: Label
         label: Acting
         url: ''
       - type: Label
@@ -209,8 +211,6 @@ sections:
         label: Brass Inst.
       - type: Label
         label: Composing
-      - type: Label
-        label: Singing
       - type: Label
         label: Piano
       - type: Label
