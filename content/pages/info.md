@@ -215,10 +215,10 @@ sections:
         label: 'Many, many other instruments'
         url: ''
       - type: Label
+        label: Perfect pitch
+      - type: Label
         label: Acting
         url: ''
-      - type: Label
-        label: Perfect pitch
       - type: Label
         label: Writing
         url: ''
