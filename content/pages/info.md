@@ -138,7 +138,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
+            label: YouTube
             url: 'https://www.linkedin.com/'
         styles:
           self:
