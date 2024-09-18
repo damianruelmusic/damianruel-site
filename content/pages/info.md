@@ -208,7 +208,7 @@ sections:
       - type: Label
         label: Brass Inst.
       - type: Label
-        label: Pancakes
+        label: Piano
       - type: Label
         label: C++
       - type: Label
