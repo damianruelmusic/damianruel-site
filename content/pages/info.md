@@ -200,13 +200,13 @@ sections:
       - type: Label
         label: Composing
       - type: Label
-        label: Perfect pitch
-      - type: Label
         label: Guitar
       - type: Label
         label: Brass Inst.
       - type: Label
         label: Singing
+      - type: Label
+        label: Perfect pitch
       - type: Label
         label: Piano
       - type: Label
