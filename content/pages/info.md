@@ -198,9 +198,9 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Musicianship
-      - type: Label
         label: Music Theory
+      - type: Label
+        label: Musicianship
       - type: Label
         label: Perfect pitch
       - type: Label
