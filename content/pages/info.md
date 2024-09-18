@@ -122,7 +122,8 @@ sections:
         actions:
           - type: Link
             label: Apple Music
-            url: 'https://twitter.com/'
+            url: >-
+              https://music.apple.com/us/album/revision-iv/1757031953?i=1757031954
         styles:
           self:
             textAlign: left
