@@ -200,7 +200,7 @@ sections:
       - type: Label
         label: Musicianship
       - type: Label
-        label: React
+        label: Multi-instrumentalism
       - type: Label
         label: Microsoft Office
       - type: Label
