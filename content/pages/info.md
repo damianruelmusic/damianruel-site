@@ -200,7 +200,7 @@ sections:
       - type: Label
         label: Musicianship
       - type: Label
-        label: Multi-instrumentalism
+        label: Multi-instrumentalist
       - type: Label
         label: Microsoft Office
       - type: Label
