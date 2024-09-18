@@ -147,7 +147,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/netlify'
+            url: 'https://twitter.com/damianruelmusic'
         styles:
           self:
             textAlign: left
