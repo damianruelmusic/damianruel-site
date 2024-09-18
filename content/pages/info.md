@@ -210,7 +210,7 @@ sections:
       - type: Label
         label: Piano
       - type: Label
-        label: C++
+        label: Drums
       - type: Label
         label: Swift
   - type: DividerSection
