@@ -200,7 +200,7 @@ sections:
       - type: Label
         label: Music Theory
       - type: Label
-        label: Singer
+        label: Singing
       - type: Label
         label: Perfect pitch
       - type: Label
