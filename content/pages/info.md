@@ -238,8 +238,8 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+    text: >
+      [damianruelmusic](mailto:thisismyemail.@myemail.me)[@gmail.com](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
