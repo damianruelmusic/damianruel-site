@@ -198,11 +198,11 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Composing
-      - type: Label
         label: Guitar
       - type: Label
         label: Brass Inst.
+      - type: Label
+        label: Composing
       - type: Label
         label: Singing
       - type: Label
