@@ -155,7 +155,7 @@ sections:
         actions:
           - type: Link
             label: Linktree
-            url: 'https://discord.com/'
+            url: 'https://linktr.ee/damianruel'
         styles:
           self:
             textAlign: left
