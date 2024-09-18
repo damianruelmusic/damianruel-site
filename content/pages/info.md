@@ -212,7 +212,7 @@ sections:
       - type: Label
         label: Drums
       - type: Label
-        label: Swift
+        label: Strings
   - type: DividerSection
     styles:
       self:
