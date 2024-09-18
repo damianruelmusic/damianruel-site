@@ -216,6 +216,9 @@ sections:
       - type: Label
         label: 'Many, many other instruments'
         url: ''
+      - type: Label
+        label: Acting
+        url: ''
   - type: DividerSection
     styles:
       self:
