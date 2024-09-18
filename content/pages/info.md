@@ -61,30 +61,18 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'I worked with these guyz:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/RouteNote.jpg
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/distrokid-sticker.png
         altText: Logo four
         caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
     spacing: 3
-    columns: 5
+    columns: 2
     aspectRatio: auto
     showCaption: false
     enableHover: false
