@@ -198,7 +198,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Music Theory
+        label: Composing
       - type: Label
         label: Perfect pitch
       - type: Label
