@@ -218,7 +218,7 @@ sections:
       - type: Label
         label: Strings
       - type: Label
-        label: 'Many, many other instruments'
+        label: Many other instruments
         url: ''
       - type: Label
         label: Perfect pitch
