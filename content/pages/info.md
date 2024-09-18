@@ -201,6 +201,9 @@ sections:
         label: Acting
         url: ''
       - type: Label
+        label: Writing
+        url: ''
+      - type: Label
         label: Guitar
       - type: Label
         label: Brass Inst.
@@ -219,9 +222,6 @@ sections:
         url: ''
       - type: Label
         label: Perfect pitch
-      - type: Label
-        label: Writing
-        url: ''
   - type: DividerSection
     styles:
       self:
