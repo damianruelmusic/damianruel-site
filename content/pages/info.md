@@ -206,13 +206,13 @@ sections:
       - type: Label
         label: Singing
       - type: Label
-        label: Perfect pitch
-      - type: Label
         label: Piano
       - type: Label
         label: Drums
       - type: Label
         label: Strings
+      - type: Label
+        label: Perfect pitch
       - type: Label
         label: 'Many, many other instruments'
         url: ''
