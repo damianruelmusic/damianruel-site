@@ -147,7 +147,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://codepen.io/'
+            url: 'https://twitter.com/netlify'
         styles:
           self:
             textAlign: left
