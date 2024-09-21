@@ -256,6 +256,28 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
+        subtitle: 'Education:'
+        text: |-
+          **2015-2018**
+
+          * ba computer sciense at a semi fancy school
+
+          **2014**
+
+          * react certificate somewhere
+
+          **2011**
+
+          * my highschool
+        styles:
+          self:
+            textAlign: left
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+      - type: FeaturedItem
         subtitle: 'Experience:'
         text: >+
           **Current**
@@ -294,28 +316,6 @@ sections:
           *   Started learning instruments. Still learning/mastering as many as
           I can
 
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
