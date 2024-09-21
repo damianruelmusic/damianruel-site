@@ -278,7 +278,7 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: 'Education:'
         text: >+
           **Current**
 
