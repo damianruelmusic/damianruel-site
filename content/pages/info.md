@@ -112,40 +112,18 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/'
+            label: Spotify
+            url: >-
+              https://open.spotify.com/track/0Lt7n7FZxKOgweu916V8gF?si=dbf3d58889e54f11
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            label: Apple Music
+            url: >-
+              https://music.apple.com/us/album/revision-iv/1757031953?i=1757031954
         styles:
           self:
             textAlign: left
@@ -153,7 +131,31 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/damianruelmusic/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: YouTube
+            url: 'https://www.youtube.com/@damianruelmusic'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Twitter
+            url: 'https://twitter.com/damianruelmusic'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Linktree
+            url: 'https://linktr.ee/damianruel'
         styles:
           self:
             textAlign: left
@@ -196,21 +198,30 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Singing
       - type: Label
-        label: React
+        label: Writing
+        url: ''
       - type: Label
-        label: Microsoft Office
+        label: Composing
       - type: Label
-        label: Next.js
+        label: Acting
+        url: ''
       - type: Label
-        label: Netlify
+        label: Guitar
       - type: Label
-        label: Pancakes
+        label: Brass Inst.
       - type: Label
-        label: C++
+        label: Piano
       - type: Label
-        label: Swift
+        label: Drums
+      - type: Label
+        label: Strings
+      - type: Label
+        label: Many other instruments
+        url: ''
+      - type: Label
+        label: Perfect pitch
   - type: DividerSection
     styles:
       self:
@@ -228,7 +239,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [damianruelmusic@gmail.com](mailto:damianruelmusic@gmail.com)
   - type: DividerSection
     styles:
       self:
@@ -246,26 +257,34 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **2024-Current**
 
-          * freelance @freelance.me
+          *   Off The Record A Cappella
+          *   UIUC Men's Glee Club
 
-          **2018-2021**
+          **2024**
 
-          * fullstack at this startup
+          *   Demon Strings (String Ensemble) Contrabass Maine East
 
-          **2015**
+          **2020-2024**
 
-          * senior front-end at this place
+          *   Wind Ensemble 1st Trumpet Maine East
 
-          **2013**
+          **2022-2024**
 
-          * intern developer at a big company
+          *   Chamber Choir Bass/Tenor Maine East
 
-          **2011**
+          **Theatre Roles**
 
-          * flipping burgers
+          *   William Shakespeare - Something Rotten
+
+          *   Mad Hatter - Lookingglass Alice
+
+          *   Nick Bottom - A Midsummer Night's Dream
+
+          *   Sebastian - The Little Mermaid
+
         styles:
           self:
             textAlign: left
@@ -276,18 +295,25 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **Current**
 
-          * ba computer sciense at a semi fancy school
+
+          *   UIUC Music Ed Student
+
+
+          **2023-2024**
+
+
+          *   Voice Lessons
+
 
           **2014**
 
-          * react certificate somewhere
 
-          **2011**
+          *   Started learning instruments. Still learning/mastering as many as
+          I can
 
-          * my highschool
         styles:
           self:
             textAlign: left
