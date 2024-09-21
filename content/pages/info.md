@@ -257,18 +257,34 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2024-Current**
 
-          * ba computer sciense at a semi fancy school
+          *   Off The Record A Cappella
+          *   UIUC Men's Glee Club
 
-          **2014**
+          **2024**
 
-          * react certificate somewhere
+          *   Demon Strings (String Ensemble) Contrabass Maine East
 
-          **2011**
+          **2020-2024**
 
-          * my highschool
+          *   Wind Ensemble 1st Trumpet Maine East
+
+          **2022-2024**
+
+          *   Chamber Choir Bass/Tenor Maine East
+
+          **Theatre Roles**
+
+          *   William Shakespeare - Something Rotten
+
+          *   Mad Hatter - Lookingglass Alice
+
+          *   Nick Bottom - A Midsummer Night's Dream
+
+          *   Sebastian - The Little Mermaid
+
         styles:
           self:
             textAlign: left
