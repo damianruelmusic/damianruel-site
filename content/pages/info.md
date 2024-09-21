@@ -257,30 +257,42 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |+
+        text: >+
           **Current**
+
 
           *   UIUC Music Ed Student
 
+
           **2020-2024**
+
 
           *   Wind Ensemble 1st Trumpet (section leader 2022-2024)
 
+
           **2022-2024**
+
 
           *   Chamber choir
 
+
+          **2023-2024**
+
+
+          *   Voice Lessons
+
+
           **2018-2020**
+
 
           *   Primary school band class
 
-          **2013**
 
-          *   intern developer at a big company
+          **2014**
 
-          **2011**
 
-          *   flipping burgers
+          *   Started learning instruments. Still learning/mastering as many as
+          I can
 
         styles:
           self:
