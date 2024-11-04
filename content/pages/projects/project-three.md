@@ -9,10 +9,6 @@ featuredImage:
   type: ImageBlock
   url: /images/IMG_2726.JPG
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project image
 ---
 More to come...
 
