@@ -58,31 +58,20 @@ Mihăescu's analysis focuses on the ethical issues of AI in music, especially co
 
 Using AI in music composition poses real challenges we can’t overlook. As we embrace this new technology, we need to think about its effects on artists, authenticity, and the future of music. Many believe AI threatens musicians’ jobs and the creative spirit of the industry. It’s important for researchers, educators, and industry leaders to discuss AI’s role in music carefully, focusing on ethical issues. This will help protect the artistic integrity of music while navigating the complexities of automation. The future of music should celebrate human creativity, not lack of effort.
 
-```
+
+
+
+
 Works cited:
-```
 
-```
-POPEAN, M.; CĂPĂȚÎNĂ, C. The Appocalypse of Authenticity: AI Faux Music. ICT in Muzical Field / Tehnologii Informatice si de Comunicatie in Domeniul Muzical, [s. l.], v. 14, n. 2, p. 79–91, 2023. DOI 10.47809/ictmf.2023.02.08. Disponível em: 
-```
+POPEAN, M.; CĂPĂȚÎNĂ, C. The Appocalypse of Authenticity: AI Faux Music. ICT in Muzical Field / Tehnologii Informatice si de Comunicatie in Domeniul Muzical, \[s. l.], v. 14, n. 2, p. 79–91, 2023. DOI 10.47809/ictmf.2023.02.08. Disponível em: <https://research-ebsco-com.proxy2.library.illinois.edu/linkprocessor/plink?id=e26d775b-ad8b-36c7-a493-bf8db9046bd3>. Acesso em: 2 out. 2024.
 
-```
-TATAR, K. et al. A Shift in Artistic Practices through Artificial Intelligence. Leonardo, [s. l.], v. 57, n. 3, p. 293–297, 2024. DOI 10.1162/leon_a_02523. Disponível em: 
-```
+TATAR, K. et al. A Shift in Artistic Practices through Artificial Intelligence. Leonardo, \[s. l.], v. 57, n. 3, p. 293–297, 2024. DOI 10.1162/leon\_a\_02523. Disponível em: <https://research-ebsco-com.proxy2.library.illinois.edu/linkprocessor/plink?id=e590eb40-70a6-3b79-8f5a-13ca013a6ffe>. Acesso em: 2 out. 2024.
 
-```
-Rujing Huang, et al. “De-Centering the West: East Asian Philosophies and the Ethics of Applying Artificial Intelligence to Music.” International Society for Music Information Retrieval Conference Proceedings, Jan. 2021, pp. 301–09. EBSCOhost, 
-```
+Rujing Huang, et al. “De-Centering the West: East Asian Philosophies and the Ethics of Applying Artificial Intelligence to Music.” International Society for Music Information Retrieval Conference Proceedings, Jan. 2021, pp. 301–09. EBSCOhost, [research.ebsco.com/linkprocessor/plink?id=7233384a-0ae2-3e5a-ad95-fd0ca2512b59](http://research.ebsco.com/linkprocessor/plink?id=7233384a-0ae2-3e5a-ad95-fd0ca2512b59)
 
-```
-Mihăescu, Cristian, and Manuela Mihăescu. “The Impact of Generative AI in Music Composition.” ICT in Muzical Field / Tehnologii Informatice Si de Comunicatie in Domeniul Muzical, vol. 14, no. 2, July 2023, pp. 93–102. EBSCOhost, 
-```
+Mihăescu, Cristian, and Manuela Mihăescu. “The Impact of Generative AI in Music Composition.” ICT in Muzical Field / Tehnologii Informatice Si de Comunicatie in Domeniul Muzical, vol. 14, no. 2, July 2023, pp. 93–102. EBSCOhost, <https://doi-org.proxy2.library.illinois.edu/10.47809/ictmf.2023.02.09>
 
-```
-Berkowitz, Adam Eric. “Artificial Intelligence and Musicking: A Philosophical Inquiry.” Music Perception, vol. 41, no. 5, June 2024, pp. 393–412. EBSCOhost, 
-```
+Berkowitz, Adam Eric. “Artificial Intelligence and Musicking: A Philosophical Inquiry.” Music Perception, vol. 41, no. 5, June 2024, pp. 393–412. EBSCOhost, [research.ebsco.com/linkprocessor/plink?id=ff8cffbc-1044-367e-a06b-bcb966c5ce78](http://research.ebsco.com/linkprocessor/plink?id=ff8cffbc-1044-367e-a06b-bcb966c5ce78)
 
-```
-Laidlow, Robert. “Future Music: Silicon, Artificial Intelligence and Classical Music.” Musical Opinion Quarterly, no. 1533, Oct. 2022, pp. 20–22. EBSCOhost, 
-```
-
+Laidlow, Robert. “Future Music: Silicon, Artificial Intelligence and Classical Music.” Musical Opinion Quarterly, no. 1533, Oct. 2022, pp. 20–22. EBSCOhost, [research.ebsco.com/linkprocessor/plink?id=eed45645-5212-36e0-8545-80faeb0908c0](http://research.ebsco.com/linkprocessor/plink?id=eed45645-5212-36e0-8545-80faeb0908c0)
