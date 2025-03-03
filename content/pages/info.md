@@ -260,8 +260,14 @@ sections:
         text: |+
           **2024-Current**
 
-          *   Off The Record A Cappella
-          *   UIUC Men's Glee Club
+          *   Off The Record A Cappella Bass/VP/Arranger/Composer
+          *   UIUC Men's Glee Club Bass/Baritone/Tenor
+          *   Mariachi Alma Trumpeter/Vocalist
+          *   Drummer for some bands
+
+          **2025**
+
+          *   Drummer for [Sierra Sikora](https://sierrasikora.com/)
 
           **2024**
 
