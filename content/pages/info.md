@@ -51,7 +51,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: About Me
-    subtitle: The section subtitle
+    subtitle: damianruel
     text: "im a musician!! like that wasn't already obvious enough lolol... i have a lot on my mind right now, so there will be more to come! for now, enjoy the WIP of the site... my team and i (just me) are working diligently toward its full release. for now, check out my social medias\_[@damianruelmusic](https://linktr.ee/damianruel).\n"
     elementId: ''
     styles:
