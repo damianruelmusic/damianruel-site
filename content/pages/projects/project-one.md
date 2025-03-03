@@ -7,7 +7,7 @@ client: ur pretty
 description: Many arts to cum. com* Omg wait Ok Come****
 featuredImage:
   type: ImageBlock
-  url: /images/Untitled6_20240914024637.PNG
+  url: /images/Untitled13_20241021202953.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
