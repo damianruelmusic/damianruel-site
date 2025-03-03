@@ -15,4 +15,4 @@ media:
   altText: Project image
 bottomSections: []
 ---
-Listen to my music on Spotify! More to come...
+As I work on more projects, I'll write about more songs.
