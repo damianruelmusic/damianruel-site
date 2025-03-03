@@ -110,6 +110,108 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
+        subtitle: 'Experience:'
+        text: |+
+          **2024-Current**
+
+          *   Off The Record A Cappella Bass/VP/Arranger/Composer
+          *   UIUC Men's Glee Club Bass/Baritone/Tenor
+          *   Mariachi Alma Trumpeter/Vocalist
+          *   Drummer for some bands
+
+          **2025**
+
+          *   Drummer for [Sierra Sikora](https://sierrasikora.com/)
+
+          **2024**
+
+          *   Demon Strings (String Ensemble) Contrabass Maine East
+
+          **2020-2024**
+
+          *   Wind Ensemble 1st Trumpet Maine East
+
+          **2022-2024**
+
+          *   Chamber Choir Bass/Tenor Maine East
+
+          **Theatre Roles**
+
+          *   William Shakespeare - Something Rotten
+
+          *   Mad Hatter - Lookingglass Alice
+
+          *   Nick Bottom - A Midsummer Night's Dream
+
+          *   Sebastian - The Little Mermaid
+
+        styles:
+          self:
+            textAlign: left
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+      - type: FeaturedItem
+        subtitle: 'Education:'
+        text: >+
+          **Current**
+
+
+          *   UIUC Music Ed Student
+
+
+          **2023-2024**
+
+
+          *   Voice Lessons
+
+
+          **2014**
+
+
+          *   Started learning instruments. Still learning/mastering as many as
+          I can
+
+        styles:
+          self:
+            textAlign: left
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+    columns: 2
+    spacingX: 60
+    spacingY: 60
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+  - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
         actions:
           - type: Link
             label: Spotify
@@ -252,106 +354,4 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |+
-          **2024-Current**
-
-          *   Off The Record A Cappella Bass/VP/Arranger/Composer
-          *   UIUC Men's Glee Club Bass/Baritone/Tenor
-          *   Mariachi Alma Trumpeter/Vocalist
-          *   Drummer for some bands
-
-          **2025**
-
-          *   Drummer for [Sierra Sikora](https://sierrasikora.com/)
-
-          **2024**
-
-          *   Demon Strings (String Ensemble) Contrabass Maine East
-
-          **2020-2024**
-
-          *   Wind Ensemble 1st Trumpet Maine East
-
-          **2022-2024**
-
-          *   Chamber Choir Bass/Tenor Maine East
-
-          **Theatre Roles**
-
-          *   William Shakespeare - Something Rotten
-
-          *   Mad Hatter - Lookingglass Alice
-
-          *   Nick Bottom - A Midsummer Night's Dream
-
-          *   Sebastian - The Little Mermaid
-
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: >+
-          **Current**
-
-
-          *   UIUC Music Ed Student
-
-
-          **2023-2024**
-
-
-          *   Voice Lessons
-
-
-          **2014**
-
-
-          *   Started learning instruments. Still learning/mastering as many as
-          I can
-
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
 ---
