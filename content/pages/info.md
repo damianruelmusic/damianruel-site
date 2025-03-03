@@ -173,41 +173,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these guyz:'
-    images:
-      - type: ImageBlock
-        url: /images/RouteNote.jpg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/distrokid-sticker.png
-        altText: Logo four
-        caption: Logo four
-    spacing: 3
-    columns: 2
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: DividerSection
     styles:
       self:
