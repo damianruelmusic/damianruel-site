@@ -52,13 +52,7 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: "im a musician!! like that wasn't already obvious enough lolol... i have a lot on my mind right now, so there will be more to come! for now, enjoy the WIP of the site... my team and i (just me) are working diligently toward its full release. for now, check out my social medias\_[@damianruelmusic](https://linktr.ee/damianruel).\n"
     elementId: ''
     styles:
       self:
