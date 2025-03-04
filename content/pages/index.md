@@ -38,6 +38,31 @@ sections:
     type: HeroSection
     actions: []
     text: ''
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: ''
+    text: >
+      my goal is to share my thoughts and art and voice with the world. tysmsm
+      for reading even this much into it, you can continue to scroll down to see
+      more details and credentials about my creations !!!!!!!!
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-0
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -85,31 +110,6 @@ sections:
       title:
         textAlign: left
       subtitle:
-        textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
-    text: >
-      my goal is to share my thoughts and art and voice with the world. tysmsm
-      for reading even this much into it, you can continue to scroll down to see
-      more details and credentials about my creations !!!!!!!!
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-12
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
         textAlign: left
   - type: CtaSection
     title: Listen to my music!
