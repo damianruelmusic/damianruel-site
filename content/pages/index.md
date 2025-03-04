@@ -74,43 +74,6 @@ sections:
           - pb-6
         justifyContent: center
         borderWidth: 1
-  - type: TestimonialsSection
-    testimonials:
-      - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
-        name: John Doe
-        title: CEO at Parks
-        image:
-          type: ImageBlock
-          url: /images/IMG_6333.jpg
-          altText: John Doe
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
-    colors: colors-f
-    variant: variant-c
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: CtaSection
     title: Listen to my music!
     text: >
@@ -157,6 +120,43 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >
+          "Our website is the core of our sales strategy. Doris helped us
+          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        name: John Doe
+        title: CEO at Parks
+        image:
+          type: ImageBlock
+          url: /images/IMG_6333.jpg
+          altText: John Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-f
+    variant: variant-c
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
