@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Writing
-colors: colors-a
+colors: colors-e
 date: '2024-09-14'
 client: oh word?
 description: AI is destructive
