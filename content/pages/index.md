@@ -36,7 +36,7 @@ sections:
     type: HeroSection
     actions: []
     text: |
-      contact me at damianruelmusic\@gmail.com
+      <damianruelmusic@gmail.com>
   - type: DividerSection
     title: Divider
     elementId: ''
