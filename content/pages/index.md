@@ -103,42 +103,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: TestimonialsSection
-    testimonials:
-      - type: Testimonial
-        quote: |
-          damianruel
-        name: ''
-        title: ''
-        image:
-          type: ImageBlock
-          url: /images/Untitled37_20250304101843.png
-          altText: damianruel
-          caption: recording drums
-          elementId: ''
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
-    colors: colors-f
-    variant: variant-c
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: HeroSection
     title: damianruel
     subtitle: ''
