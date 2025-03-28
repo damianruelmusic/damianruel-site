@@ -145,6 +145,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: |
+      i record and produce all my own stuff!
   - type: DividerSection
     title: Divider
     elementId: ''
