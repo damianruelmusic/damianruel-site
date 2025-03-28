@@ -73,7 +73,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Instagram
         altText: ''
         url: 'https://www.instagram.com/damianruelmusic?igsh=ZmRoYThxMzhiM3h5'
         showIcon: false
