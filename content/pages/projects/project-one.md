@@ -19,7 +19,10 @@ bottomSections:
       - type: Testimonial
         quote: |
           First digital art thingy
-        name: First digital art thingy
+        name: >-
+          I wanted to experiment with digital art and colors because I only ever
+          did traditional art with regular pencils. I have two types of
+          colorblindness so it was extremely difficult
         title: ''
         image:
           type: ImageBlock
