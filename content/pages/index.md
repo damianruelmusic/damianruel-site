@@ -142,7 +142,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/IMG_6333.jpg
-          altText: John Doe
+          altText: damianruel
           caption: Caption of the image
           elementId: ''
         elementId: ''
