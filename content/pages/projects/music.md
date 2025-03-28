@@ -7,7 +7,7 @@ description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
 addTitleSuffix: true
-colors: colors-a
+colors: colors-e
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
