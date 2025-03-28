@@ -143,7 +143,7 @@ sections:
           type: ImageBlock
           url: /images/IMG_6333.jpg
           altText: damianruel
-          caption: Caption of the image
+          caption: recording drums
           elementId: ''
         elementId: ''
         styles:
