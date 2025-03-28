@@ -107,7 +107,7 @@ sections:
         title: >-
           He keeps a genre-fluid approach to his projects, and likes to think he
           is unrestricted in musical expression. While his projects don't stick
-          to one or three genres, he has a very similar vibe in the art he
+          to one or three genres, he has a very unique vibe in the music he
           creates. He is very intentional with what he puts out, sometimes
           because he thinks it's funny to have an intro that's unrelated to the
           song, or if he thinks a note should be a quarter-tone sharp to bring
