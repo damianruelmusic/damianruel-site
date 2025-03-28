@@ -315,7 +315,7 @@ sections:
         title: ''
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
+          url: /images/F8E8350F-F78E-44C8-BA49-F2730BE1E03B.jpeg
           altText: John Doe
           caption: Caption of the image
           elementId: ''
