@@ -311,7 +311,7 @@ sections:
       - type: Testimonial
         quote: |
           this page is for u to get to know me!!
-        name: ''
+        name: <-- my friends and i
         title: ''
         image:
           type: ImageBlock
