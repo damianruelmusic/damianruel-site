@@ -6,7 +6,7 @@ date: '2024-09-14'
 client: for u !
 description: >-
   My voice is best understood in the language I most understand. Very surface
-  level thoughts on my songs.
+  level thoughts on my projects.
 featuredImage:
   type: ImageBlock
   url: /images/IMG_5264.jpeg
