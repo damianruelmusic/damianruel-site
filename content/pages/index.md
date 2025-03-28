@@ -147,7 +147,7 @@ sections:
       can continue to scroll down to see more details and credentials about me.
     actions:
       - type: Button
-        label: Hire me
+        label: More About Me
         altText: ''
         url: /info
         showIcon: true
