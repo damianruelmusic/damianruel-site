@@ -313,7 +313,7 @@ sections:
           "Our website is the core of our sales strategy. Doris helped us
           establish an easy-to-maintain Stackbit site with outstanding visuals!"
         name: ''
-        title: CEO at Parks
+        title: ''
         image:
           type: ImageBlock
           url: /images/person-2.jpg
