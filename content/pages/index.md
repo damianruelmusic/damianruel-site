@@ -108,12 +108,7 @@ sections:
       - type: Testimonial
         quote: |
           damianruel
-        name: >-
-          Damian, known professionally as damianruel, is a Chicago-based
-          multi-instrumentalist, composer, and otherwise artist whose work
-          reflects partly his self-taught findings from exploring how notes work
-          with his many curious ideas. He is his own producer and he plays the
-          instruments in his song to ensure it ends up how he envisions it.
+        name: ''
         title: ''
         image:
           type: ImageBlock
