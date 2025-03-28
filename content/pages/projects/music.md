@@ -1,21 +1,25 @@
 ---
 type: ProjectLayout
-title: My Music old
-colors: colors-a
+title: My Music
 date: '2025-03-28'
-client: for u !
+client: for u !!
 description: >-
   My voice is best understood in the language I most understand. Very surface
   level thoughts on my projects.
-featuredImage:
-  type: ImageBlock
-  url: /images/IMG_5264.jpeg
-  altText: Project thumbnail image
+addTitleSuffix: true
+colors: colors-e
 media:
   type: ImageBlock
   url: /images/IMG_0074 - Copy.jpeg
-  altText: Project image
-bottomSections: []
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+featuredImage:
+  type: ImageBlock
+  url: /images/IMG_5264.jpeg
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 **(UPCOMING)**
 
@@ -68,4 +72,3 @@ Me practicing writing in Spanish. I didn't really speak it at home so I learned 
 **(Dejarte)**
 
 My first song, written in somebody else's perspective. I hope they never find out.
-
