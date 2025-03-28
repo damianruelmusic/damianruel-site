@@ -309,9 +309,8 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        quote: |
+          this page is for u to get to know me!!
         name: ''
         title: ''
         image:
