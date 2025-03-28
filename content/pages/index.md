@@ -206,7 +206,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    subtitle: why a website?
+    subtitle: thank you!
   - type: DividerSection
     title: Divider
     elementId: ''
