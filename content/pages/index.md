@@ -261,7 +261,8 @@ sections:
     title: My mind
   - type: ContactSection
     title: contact me!!
-    text: I'm look forward to hearing from you.
+    text: |
+      i'd love to her from you
     form:
       type: FormBlock
       title: Title of the form
