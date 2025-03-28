@@ -8,13 +8,6 @@ description: >-
   level thoughts on my projects.
 addTitleSuffix: true
 colors: colors-e
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 media:
   type: ImageBlock
   url: /images/IMG_0074 - Copy.jpeg
