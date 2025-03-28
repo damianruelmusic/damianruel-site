@@ -35,7 +35,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: ''
+    text: |
+      contact me at damianruelmusic\@gmail.com
   - type: DividerSection
     title: Divider
     elementId: ''
