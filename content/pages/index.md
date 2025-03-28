@@ -160,7 +160,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Untitled37_20250304101843.png
-      altText: Hero image
+      altText: damianruel picture lol
       caption: Caption of the image
       elementId: ''
     colors: colors-f
