@@ -46,6 +46,42 @@ sections:
         textAlign: center
       text:
         textAlign: center
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: |
+          this page is for u to get to know me!!
+        name: <-- my friends and i
+        title: ''
+        image:
+          type: ImageBlock
+          url: /images/F8E8350F-F78E-44C8-BA49-F2730BE1E03B.jpeg
+          altText: John Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-f
+    variant: variant-c
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: DividerSection
     styles:
       self:
@@ -306,40 +342,4 @@ sections:
     colors: colors-f
     text: |
       [damianruelmusic@gmail.com](mailto:damianruelmusic@gmail.com)
-  - type: TestimonialsSection
-    testimonials:
-      - type: Testimonial
-        quote: |
-          this page is for u to get to know me!!
-        name: <-- my friends and i
-        title: ''
-        image:
-          type: ImageBlock
-          url: /images/F8E8350F-F78E-44C8-BA49-F2730BE1E03B.jpeg
-          altText: John Doe
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
-    colors: colors-f
-    variant: variant-c
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
 ---
