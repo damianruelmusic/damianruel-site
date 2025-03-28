@@ -196,35 +196,6 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: Singing
-      - type: Label
-        label: Writing
-        url: ''
-      - type: Label
-        label: Composing
-      - type: Label
-        label: Acting
-        url: ''
-      - type: Label
-        label: Guitar
-      - type: Label
-        label: Brass Inst.
-      - type: Label
-        label: Piano
-      - type: Label
-        label: Drums
-      - type: Label
-        label: Strings
-      - type: Label
-        label: Many other instruments
-        url: ''
-      - type: Label
-        label: Perfect pitch
   - type: DividerSection
     styles:
       self:
@@ -336,6 +307,35 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: LabelsSection
+    colors: colors-f
+    subtitle: 'Skills:'
+    items:
+      - type: Label
+        label: Singing
+      - type: Label
+        label: Writing
+        url: ''
+      - type: Label
+        label: Composing
+      - type: Label
+        label: Acting
+        url: ''
+      - type: Label
+        label: Guitar
+      - type: Label
+        label: Brass Inst.
+      - type: Label
+        label: Piano
+      - type: Label
+        label: Drums
+      - type: Label
+        label: Strings
+      - type: Label
+        label: Many other instruments
+        url: ''
+      - type: Label
+        label: Perfect pitch
   - type: TextSection
     variant: variant-a
     subtitle: 'Contact:'
