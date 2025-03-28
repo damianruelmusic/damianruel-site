@@ -103,7 +103,7 @@ sections:
           multi-instrumentalist, composer, and otherwise artist whose work
           reflects partly his self-taught findings from exploring how notes work
           with his many curious ideas. He is his own producer and he plays the
-          instruments in his song to ensure it ends up how he envisioned it.
+          instruments in his song to ensure it ends up how he envisions it.
         title: >-
           He keeps a genre-fluid approach to his projects, and likes to think he
           is unrestricted in musical expression. While his projects don't stick
