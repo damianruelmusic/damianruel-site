@@ -260,7 +260,7 @@ sections:
     subtitle: i have lots of thoughts i'd like to share
     title: My mind
   - type: ContactSection
-    title: Contact Me
+    title: contact me!!
     text: I'm look forward to hearing from you.
     form:
       type: FormBlock
