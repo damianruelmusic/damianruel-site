@@ -4,8 +4,8 @@ title: My Music
 date: '2025-03-28'
 client: for u !!
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  My voice is best understood in the language I most understand. Very surface
+  level thoughts on my projects.
 addTitleSuffix: true
 colors: colors-e
 backgroundImage:
