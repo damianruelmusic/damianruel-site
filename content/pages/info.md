@@ -14,7 +14,21 @@ sections:
     variant: variant-a
     title: About Me
     subtitle: ''
-    text: "im a musician!! like that wasn't already obvious enough lolol... i have a lot on my mind right now, so there will be more to come! for now, enjoy the WIP of the site... my team and i (just me) are working diligently toward its full release. for now, check out my social medias\_[@damianruelmusic](https://linktr.ee/damianruel).\n"
+    text: >
+      Damian, known professionally as damianruel, is a Chicago-based
+      multi-instrumentalist, composer, and otherwise artist whose work reflects
+      partly his self-taught findings from exploring how notes work with his
+      many curious ideas. He is his own producer and he plays the instruments in
+      his song to ensure it ends up how he envisions it. 
+
+
+      He keeps a genre-fluid approach to his projects, and likes to think he is
+      unrestricted in musical expression. While his projects don't stick to one
+      or three genres, he has a very unique vibe in the music he creates. He is
+      very intentional with what he puts out, sometimes because he thinks it's
+      funny to have an intro that's unrelated to the song, or if he thinks a
+      note should be a quarter-tone sharp to bring out a certain feeling in the
+      phrase.
     elementId: ''
     styles:
       self:
