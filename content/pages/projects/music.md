@@ -16,7 +16,7 @@ media:
   elementId: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/IMG_5264.jpeg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
