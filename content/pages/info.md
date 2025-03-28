@@ -123,6 +123,7 @@ sections:
         url: ''
       - type: Label
         label: Perfect pitch
+    title: 'EPK:'
   - type: DividerSection
     styles:
       self:
