@@ -111,7 +111,7 @@ sections:
       - type: Label
         label: Guitar
       - type: Label
-        label: Brass Inst.
+        label: Brass
       - type: Label
         label: Piano
       - type: Label
