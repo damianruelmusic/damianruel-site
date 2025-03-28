@@ -210,7 +210,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: What I can do for u!!
     items:
       - type: Label
         label: Singing
