@@ -141,7 +141,7 @@ sections:
           out a certain feeling in the phrase.
         image:
           type: ImageBlock
-          url: /images/IMG_6333.jpg
+          url: /images/Untitled37_20250304101843.png
           altText: damianruel
           caption: recording drums
           elementId: ''
