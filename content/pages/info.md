@@ -233,9 +233,6 @@ sections:
       - type: Label
         label: Strings
       - type: Label
-        label: ''
-        url: ''
-      - type: Label
         label: Perfect pitch
     title: ''
   - type: DividerSection
