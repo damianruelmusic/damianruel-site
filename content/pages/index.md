@@ -124,20 +124,20 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >+
-          Damian, known artistically as damianruel, is a Chicago-based
+          #### Damian, known artistically as damianruel, is a Chicago-based
           multi-instrumentalist, composer, and otherwise artist whose work
           reflects partly his self-taught findings from exploring how notes work
           with his many curious ideas. He is his own producer and he plays the
           instruments in his song to ensure it ends up how he envisioned it.
 
 
-          He keeps a genre-fluid approach to his projects, and likes to think he
-          is unrestricted in musical expression. While his projects don't stick
-          to one or three genres, he has a very similar vibe in the art he
-          creates. He is very intentional with what he puts out, sometimes
-          because he thinks it's funny to have an intro that's unrelated to the
-          song, or if he thinks a note should be a quarter-tone sharp to bring
-          out a certain feeling in the phrase. 
+          #### He keeps a genre-fluid approach to his projects, and likes to
+          think he is unrestricted in musical expression. While his projects
+          don't stick to one or three genres, he has a very similar vibe in the
+          art he creates. He is very intentional with what he puts out,
+          sometimes because he thinks it's funny to have an intro that's
+          unrelated to the song, or if he thinks a note should be a quarter-tone
+          sharp to bring out a certain feeling in the phrase.
 
         name: John Doe
         title: CEO at Parks
