@@ -15,4 +15,24 @@ media:
   altText: Project image
 bottomSections: []
 ---
-As I work on more projects, I'll write about more songs.
+(UPCOMING)
+
+A new double single in the works about growing up!
+
+
+
+(RELEASED)
+
+
+
+to your left:
+
+iv (redux):
+
+silly titles dont mean satire:
+
+Archive No. 1:
+
+iv:
+
+Dejarte:
