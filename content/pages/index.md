@@ -262,7 +262,7 @@ sections:
   - type: ContactSection
     title: contact me!!
     text: |
-      i'd love to her from you
+      i'd love to hear from you
     form:
       type: FormBlock
       title: Title of the form
