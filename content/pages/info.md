@@ -9,43 +9,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    text: >
-      ## im a musician!! like that wasn't already obvious enough lolol... i have
-      a lot on my mind right now, so there will be more to come! for now, enjoy
-      the WIP of the site... my team and i (just me) are working diligently
-      toward its full release. for now, check out my social medias
-      [@damianruelmusic](https://linktr.ee/damianruel).
-    media:
-      type: ImageBlock
-      url: /images/IMG_6333.jpg
-      altText: Hero image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: TextSection
     colors: colors-f
     variant: variant-a
