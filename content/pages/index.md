@@ -7,9 +7,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: damianruel's page
-    subtitle: >-
-      a musician, writer, artist and a bunch of other creative titles and buzz
-      words.
+    subtitle: ''
     styles:
       self:
         height: auto
