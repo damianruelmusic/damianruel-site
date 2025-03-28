@@ -26,7 +26,7 @@ bottomSections:
         title: ''
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
+          url: /images/Untitled13_20241021202953.png
           altText: John Doe
           caption: Caption of the image
           elementId: ''
