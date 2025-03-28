@@ -9,10 +9,6 @@ featuredImage:
   type: ImageBlock
   url: /images/Untitled13_20241021202953.png
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/Untitled13_20241021202953.png
-  altText: Project image
 bottomSections:
   - type: TestimonialsSection
     testimonials:
