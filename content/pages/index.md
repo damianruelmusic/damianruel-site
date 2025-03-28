@@ -35,7 +35,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: ''
+    text: |
+      <damianruelmusic@gmail.com>
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -102,54 +103,50 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: TestimonialsSection
-    testimonials:
-      - type: Testimonial
-        quote: |
-          damianruel
-        name: >-
-          Damian, known professionally as damianruel, is a Chicago-based
-          multi-instrumentalist, composer, and otherwise artist whose work
-          reflects partly his self-taught findings from exploring how notes work
-          with his many curious ideas. He is his own producer and he plays the
-          instruments in his song to ensure it ends up how he envisions it.
-        title: >-
-          He keeps a genre-fluid approach to his projects, and likes to think he
-          is unrestricted in musical expression. While his projects don't stick
-          to one or three genres, he has a very unique vibe in the music he
-          creates. He is very intentional with what he puts out, sometimes
-          because he thinks it's funny to have an intro that's unrelated to the
-          song, or if he thinks a note should be a quarter-tone sharp to bring
-          out a certain feeling in the phrase.
-        image:
-          type: ImageBlock
-          url: /images/Untitled37_20250304101843.png
-          altText: damianruel
-          caption: recording drums
-          elementId: ''
+  - type: HeroSection
+    title: damianruel
+    subtitle: ''
+    actions:
+      - type: Button
+        label: More About Me
+        altText: ''
+        url: /info
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
         elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
+    media:
+      type: ImageBlock
+      url: /images/Untitled37_20250304101843.png
+      altText: damianruel picture lol
+      caption: Caption of the image
+      elementId: ''
     colors: colors-f
-    variant: variant-c
+    backgroundSize: full
     elementId: ''
     styles:
       self:
         height: auto
         width: wide
         padding:
-          - pt-28
-          - pb-28
+          - pt-36
+          - pb-48
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
+        flexDirection: row-reverse
       title:
         textAlign: left
       subtitle:
         textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    text: |
+      i record and produce all my own stuff!
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -212,7 +209,7 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-two.md
+      - content/pages/projects/music.md
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
     styles:
@@ -238,70 +235,6 @@ sections:
         justifyContent: flex-end
     subtitle: i have lots of thoughts i'd like to share
     title: My mind
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-9
-          - pb-9
-        justifyContent: center
-        borderWidth: 1
-  - type: ContactSection
-    title: contact me!!
-    text: |
-      i'd love to hear from you
-    form:
-      type: FormBlock
-      title: Title of the form
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          width: 1/2
-          isRequired: 'true'
-        - type: EmailFormControl
-          name: email
-          label: Name
-          hideLabel: true
-          placeholder: Your email
-          width: 1/2
-          isRequired: 'true'
-        - type: TextareaFormControl
-          name: message
-          label: hiiii!!
-          hideLabel: true
-          placeholder: hiiii!!
-          width: full
-          isRequired: true
-      submitLabel: Send Message
-      elementId: contact-form
-      styles:
-        submitLabel:
-          textAlign: left
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: center
-      text:
-        textAlign: center
 socialImage: /images/IMG_0074 - Copy.jpeg
 metaTitle: home page ;p
 metaDescription: read more about damianruel !!
