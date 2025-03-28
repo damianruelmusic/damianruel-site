@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: My Music
 date: '2025-03-28'
-client: Awesome client
+client: musica
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
