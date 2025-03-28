@@ -29,39 +29,29 @@ This song represents a feeling I've never felt before. The lyrics mean things th
 
 **(iv (redux))**
 
-1.  (revisited) iv:
-    I revisited an old work to change the arrangement a little bit and the harmony. It matches the feeling the song represents better.
+1.  (revisited) iv: I revisited an old work to change the arrangement a little bit and the harmony. It matches the feeling the song represents better.
 
-
-2.  (remix) iv:
-    A sampled and remixed version to represent that I am a new person and different from when I first wrote the song.
+2.  (remix) iv: A sampled and remixed version to represent that I am a new person and different from when I first wrote the song.
 
 **(silly titles dont mean satire)**
 
-1.  words:
-    Overlapping vocals.
+1.  words: Overlapping vocals.
 
     2nd verse, all lines end in "you". Last line "this word repeats in my head, this word is 'you'" explains that.
 
     "You" just keep showing up in my thoughts.
 
-2.  i write a lot of music at night:
-    Someone's story. Written in the middle of the night.
-    i thought it'd be funny to have that intro lol
+2.  i write a lot of music at night: Someone's story. Written in the middle of the night. i thought it'd be funny to have that intro lol
 
-3.  i like to overreact:
-    A poem originally.
+3.  i like to overreact: A poem originally.
 
     When I overwork myself, my vision feels like it goes away and my blood feels stale. I just tell myself I'm overreacting.
 
-    "death, come upon me death, come upon me death come upon me."
-    I recorded it in one take for authenticity's sake
+    "death, come upon me death, come upon me death come upon me." I recorded it in one take for authenticity's sake
 
-4.  Track 4 title:
-    something i chose to end. left in time as a work in progress
+4.  Track 4 title: something i chose to end. left in time as a work in progress
 
-5.  Archive No. 2 :
-    The second work in my Archive series. Jazz. Harmonic experiment. Melodic experiment. Crazy setup for chromatic bass walk.
+5.  Archive No. 2 : The second work in my Archive series. Jazz. Harmonic experiment. Melodic experiment. Crazy setup for chromatic bass walk.
 
 6.  if i could, i would have named this one just a space or something so it could be invisible:
 
@@ -78,3 +68,4 @@ Me practicing writing in Spanish. I didn't really speak it at home so I learned 
 **(Dejarte)**
 
 My first song, written in somebody else's perspective. I hope they never find out.
+
