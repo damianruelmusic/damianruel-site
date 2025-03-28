@@ -15,24 +15,20 @@ media:
   altText: Project image
 bottomSections: []
 ---
-(UPCOMING)
+**(UPCOMING)**
 
 A new double single in the works about growing up!
 
+**(RELEASED)**
 
+**to your left:**
 
-(RELEASED)
+**iv (redux):**
 
+**silly titles dont mean satire:**
 
+**Archive No. 1:**
 
-to your left:
+**iv:**
 
-iv (redux):
-
-silly titles dont mean satire:
-
-Archive No. 1:
-
-iv:
-
-Dejarte:
+**Dejarte:**
