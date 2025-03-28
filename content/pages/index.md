@@ -149,7 +149,7 @@ sections:
       - type: Button
         label: Hire me
         altText: ''
-        url: /
+        url: /info
         showIcon: true
         icon: arrowRight
         iconPosition: right
