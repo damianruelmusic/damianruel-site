@@ -233,7 +233,7 @@ sections:
       - type: Label
         label: Strings
       - type: Label
-        label: Many other instruments
+        label: ''
         url: ''
       - type: Label
         label: Perfect pitch
