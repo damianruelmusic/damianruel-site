@@ -48,7 +48,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: About Me
+    title: who is damianruel?
     subtitle: ''
     text: >
       Damian, known professionally as damianruel, is a Chicago-based
