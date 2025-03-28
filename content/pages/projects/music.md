@@ -17,7 +17,7 @@ backgroundImage:
   opacity: 100
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/IMG_0074 - Copy.jpeg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
