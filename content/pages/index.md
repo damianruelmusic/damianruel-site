@@ -285,7 +285,7 @@ sections:
           name: message
           label: hiiii!!
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: hiiii!!
           width: full
           isRequired: true
         - type: CheckboxFormControl
