@@ -186,8 +186,9 @@ sections:
     variant: variant-a
     title: ''
     text: >
-      tbh i just wanted to see if i could do it. plus its a good hub to find all
-      my projects
+      if you're seeing this, it means you took time out of your day to look
+      through something i created for you. i am eternally grateful for you!!
+      have a lovely day.
     elementId: ''
     styles:
       self:
