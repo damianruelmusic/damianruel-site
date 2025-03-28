@@ -17,9 +17,8 @@ bottomSections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        quote: |
+          First digital art thingy
         name: First digital art thingy
         title: ''
         image:
